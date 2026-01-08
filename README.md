@@ -1,124 +1,24 @@
-## Hi there 👋 I’m Abhishek Ambasta
+# 💫 About Me:
+## Hi there 👋 I’m Abhishek Ambasta<br><br>🚀 **Computer Science Graduate | Front-End Developer | AI & SaaS Product Enthusiast**  <br>🎓 B.Tech CSE (2021–2025) | VIT Chennai  <br>💡 Passionate about building scalable web products, AI-driven solutions, and user-focused experiences<br><br>---<br><br>## 👨‍💻 About Me<br><br>I am a Computer Science graduate with hands-on experience in **front-end development, SaaS products, AI-powered chatbots, and data-driven systems**. I enjoy turning complex problems into simple, intuitive solutions and have worked across **web development, machine learning, IoT, and system design**.<br><br>I have experience collaborating with cross-functional teams, building real-world products, and continuously learning new technologies to improve performance, usability, and scalability.<br><br>---<br><br>## 🏢 Internship & Experience<br><br>### **Product Intern – AI Chroney (AI SaaS)**  <br>📅 *Nov 2025*  <br>- Worked on an **AI-powered conversational chatbot platform** for customer support and lead generation  <br>- Designed and developed the **entire front-end of the company website** with a focus on UI/UX and responsiveness  <br>- Collaborated with AI and product teams to understand chatbot workflows and automation use cases  <br>- Improved chatbot usability for **multilingual and AI-driven interactions**  <br>- Gained exposure to **SaaS product lifecycle and AI-based business solutions**<br><br>### **Front-End Developer Intern – Ethnus**  <br>📅 *Nov 2024*  <br>- Built a **responsive job portal** using React, HTML, CSS, and JavaScript  <br>- Implemented end-to-end job posting and application workflows  <br>- Integrated **RESTful APIs** for secure and scalable client-server communication  <br>- Optimized job search and application flows to improve performance and user engagement  <br><br>---<br><br>## 🚀 Projects & Research Work<br><br>### 🌱 **IoT-based Energy-Efficient Smart Irrigation System**  <br>📅 *Jan – May 2024*  <br>🔗 [GitHub Repository](https://github.com/BlackKingAbhi/IOT_smart_irrigation_system.git)  <br>- Optimized water usage using sensor data and automation  <br>- Achieved **92% accuracy (Decision Tree)**, **86% (SVM)**, **88% (Logistic Regression)**  <br>- Outperformed existing solutions and enabled smart irrigation scheduling  <br><br>---<br><br>### 📊 **Consumer Goods Business Analysis**  <br>📅 *Nov 2023*  <br>🔗 [GitHub Repository](https://github.com/BlackKingAbhi/Consumer_good.git)  <br>- Analyzed **multi-million row datasets** using SQL  <br>- Delivered insights for 10+ ad-hoc business queries  <br>- Identified inefficiencies with potential **10% cost reduction impact**<br><br>---<br><br>### 👕 **Clothing Type Detection (ML Project)**  <br>📅 *Aug – Sept 2023*  <br>- Built a machine learning model for real-time clothing detection  <br>- Processed video frames using **Python and OpenCV**  <br>- Targeted fashion recommendation and e-commerce use cases  <br><br>---<br><br>### 🔗 **Shortify – URL Shortening Service**  <br>📅 *Nov 2023*  <br>🔗 [GitHub Repository](https://github.com/BlackKingAbhi/Shortify.git)  <br>- Developed a URL shortening and tracking platform  <br>- Implemented **authentication, authorization, click analytics, MVC architecture**  <br>- Focused on responsive design and server-side rendering  <br><br>---<br><br>## 🛠️ Technical Skills<br><br>**Languages:**  <br>- C++, SQL (Proficient)  <br>- Java, Python, HTML, CSS, JavaScript (Fundamental)<br><br>**Web & Databases:**  <br>- React, MongoDB, RESTful APIs<br><br>**AI & ML:**  <br>- Supervised & Unsupervised Learning (Foundational)<br><br>**CS Fundamentals:**  <br>- System Design, SDLC, DBMS, OS, Computer Networks<br><br>**Tools:**  <br>- Git, GitHub, VS Code, Generative AI<br><br>---<br><br>## 🏆 Achievements & Certifications<br><br>- 🥇 **Top 20 – Flipkart Grid 6.0** (National Semi-finalist, 2024)  <br>- 🏅 **Tata Imagination Challenge** – National Semi-finalist (2024)  <br>- ☁️ **AWS Certified Cloud Practitioner**  <br>- 🧩 **Salesforce Certified Administrator (SCA)**  <br>- 🧠 **Ethnus MERN Stack Internship**  <br>- 🥇 **1st Prize – Password Event (Linux Club, VIT Chennai)**  <br>- 📘 **NPTEL – Business and Forest Management**<br><br>---<br><br>## 🧑‍🤝‍🧑 Positions of Responsibility<br><br>### **Tech Lead – MMC Club, VIT Chennai**  <br>📅 *May 2022 – 2024*  <br>- Coordinated **5+ high-impact technical events**  <br>- Improved leadership and organizational efficiency by **30–40%**  <br>- Developed strong communication, teamwork, and problem-solving skills  <br><br>---<br><br>## 📫 Connect With Me<br><br>- 🔗 GitHub: [github.com/BlackKingAbhi](https://github.com/BlackKingAbhi)  <br>- 💼 LinkedIn: [Abhishek Ambasta](https://www.linkedin.com/in/abhishek-ambasta-930b56216/)  <br>- 📧 Email: abhishekambasta80@gmail.com  <br>- 📞 Phone: +91 7070504379  <br><br>---<br><br>⚡ *Always learning, building, and improving—open to exciting opportunities and collaborations!*<br>
 
-🚀 **Computer Science Graduate | Front-End Developer | AI & SaaS Product Enthusiast**  
-🎓 B.Tech CSE (2021–2025) | VIT Chennai  
-💡 Passionate about building scalable web products, AI-driven solutions, and user-focused experiences
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhishek_ambasta2003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-ambasta-930b56216) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Working-Background57) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ABHISHEKAMBAS20) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@abhishekambasta453) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@@abhishekambasta453) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekambasta80@gmail.com) 
 
-## 👨‍💻 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlackKingAbhi&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlackKingAbhi&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackKingAbhi&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a Computer Science graduate with hands-on experience in **front-end development, SaaS products, AI-powered chatbots, and data-driven systems**. I enjoy turning complex problems into simple, intuitive solutions and have worked across **web development, machine learning, IoT, and system design**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BlackKingAbhi&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-I have experience collaborating with cross-functional teams, building real-world products, and continuously learning new technologies to improve performance, usability, and scalability.
-
----
-
-## 🏢 Internship & Experience
-
-### **Product Intern – AI Chroney (AI SaaS)**  
-📅 *Nov 2025*  
-- Worked on an **AI-powered conversational chatbot platform** for customer support and lead generation  
-- Designed and developed the **entire front-end of the company website** with a focus on UI/UX and responsiveness  
-- Collaborated with AI and product teams to understand chatbot workflows and automation use cases  
-- Improved chatbot usability for **multilingual and AI-driven interactions**  
-- Gained exposure to **SaaS product lifecycle and AI-based business solutions**
-
-### **Front-End Developer Intern – Ethnus**  
-📅 *Nov 2024*  
-- Built a **responsive job portal** using React, HTML, CSS, and JavaScript  
-- Implemented end-to-end job posting and application workflows  
-- Integrated **RESTful APIs** for secure and scalable client-server communication  
-- Optimized job search and application flows to improve performance and user engagement  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=BlackKingAbhi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Projects & Research Work
-
-### 🌱 **IoT-based Energy-Efficient Smart Irrigation System**  
-📅 *Jan – May 2024*  
-🔗 [GitHub Repository](https://github.com/BlackKingAbhi/IOT_smart_irrigation_system.git)  
-- Optimized water usage using sensor data and automation  
-- Achieved **92% accuracy (Decision Tree)**, **86% (SVM)**, **88% (Logistic Regression)**  
-- Outperformed existing solutions and enabled smart irrigation scheduling  
-
----
-
-### 📊 **Consumer Goods Business Analysis**  
-📅 *Nov 2023*  
-🔗 [GitHub Repository](https://github.com/BlackKingAbhi/Consumer_good.git)  
-- Analyzed **multi-million row datasets** using SQL  
-- Delivered insights for 10+ ad-hoc business queries  
-- Identified inefficiencies with potential **10% cost reduction impact**
-
----
-
-### 👕 **Clothing Type Detection (ML Project)**  
-📅 *Aug – Sept 2023*  
-- Built a machine learning model for real-time clothing detection  
-- Processed video frames using **Python and OpenCV**  
-- Targeted fashion recommendation and e-commerce use cases  
-
----
-
-### 🔗 **Shortify – URL Shortening Service**  
-📅 *Nov 2023*  
-🔗 [GitHub Repository](https://github.com/BlackKingAbhi/Shortify.git)  
-- Developed a URL shortening and tracking platform  
-- Implemented **authentication, authorization, click analytics, MVC architecture**  
-- Focused on responsive design and server-side rendering  
-
----
-
-## 🛠️ Technical Skills
-
-**Languages:**  
-- C++, SQL (Proficient)  
-- Java, Python, HTML, CSS, JavaScript (Fundamental)
-
-**Web & Databases:**  
-- React, MongoDB, RESTful APIs
-
-**AI & ML:**  
-- Supervised & Unsupervised Learning (Foundational)
-
-**CS Fundamentals:**  
-- System Design, SDLC, DBMS, OS, Computer Networks
-
-**Tools:**  
-- Git, GitHub, VS Code, Generative AI
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥇 **Top 20 – Flipkart Grid 6.0** (National Semi-finalist, 2024)  
-- 🏅 **Tata Imagination Challenge** – National Semi-finalist (2024)  
-- ☁️ **AWS Certified Cloud Practitioner**  
-- 🧩 **Salesforce Certified Administrator (SCA)**  
-- 🧠 **Ethnus MERN Stack Internship**  
-- 🥇 **1st Prize – Password Event (Linux Club, VIT Chennai)**  
-- 📘 **NPTEL – Business and Forest Management**
-
----
-
-## 🧑‍🤝‍🧑 Positions of Responsibility
-
-### **Tech Lead – MMC Club, VIT Chennai**  
-📅 *May 2022 – 2024*  
-- Coordinated **5+ high-impact technical events**  
-- Improved leadership and organizational efficiency by **30–40%**  
-- Developed strong communication, teamwork, and problem-solving skills  
-
----
-
-## 📫 Connect With Me
-
-- 🔗 GitHub: [github.com/BlackKingAbhi](https://github.com/BlackKingAbhi)  
-- 💼 LinkedIn: [Abhishek Ambasta](https://www.linkedin.com/in/abhishek-ambasta-930b56216/)  
-- 📧 Email: abhishekambasta80@gmail.com  
-- 📞 Phone: +91 7070504379  
-
----
-
-⚡ *Always learning, building, and improving—open to exciting opportunities and collaborations!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
